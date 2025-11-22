@@ -139,11 +139,11 @@ Enter your username: User001
 
 **Server Execution:** ![Server Output](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/server.png)
 
-**Client Execution (Public & Private Chat):** *User001 1 (Sender - User001):* ![Client User 1](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User001.png)
+**Client Execution (Public & Private Chat):** *User001 1 (Other User - Cannot see private messages):* ![Client User 1](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User001.png)
 
-*User002 2 (Receiver - Bob):* ![Client User002](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User002.png)
+*User002 (Sender - User002):* ![Client User002](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User002.png)
 
-*User003 3 (Other User - Cannot see private messages):* ![Client User003](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User003.png)
+*User003 (Receiver - User003):* ![Client User003](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User003.png)
 
 
 
