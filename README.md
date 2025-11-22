@@ -137,13 +137,13 @@ Enter your username: User001
 
 ## 7. Results
 
-**Server Execution:** ![Server Output](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/server.png){ width=700 }
+**Server Execution:** ![Server Output](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/server.png)
 
-**Client Execution (Public & Private Chat):** *User 1 (Sender - Alice):* ![Client User 1](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User001.png){ width=700 }
+**Client Execution (Public & Private Chat):** *User001 1 (Sender - User001):* ![Client User 1](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User001.png)
 
-*User 2 (Receiver - Bob):* ![Client User 2](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User002.png){ width=700 }
+*User002 2 (Receiver - Bob):* ![Client User002](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User002.png)
 
-*User 3 (Other User - Cannot see private messages):* ![Client User 3](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User003.png){ width=700 }
+*User003 3 (Other User - Cannot see private messages):* ![Client User003](https://raw.githubusercontent.com/BAGLE102/SSL_Chatroom_Homework/main/pic/User003.png)
 
 
 
