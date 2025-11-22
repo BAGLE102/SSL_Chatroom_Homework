@@ -105,31 +105,32 @@ Key libraries and system calls used:
 
 ```text
 Server listening on port 8888...
-Client Alice connected.
-Client Bob connected.
-[System]: Secret message sent to Bob.
-Client Alice disconnected.
+Client User001 connected.
+Client User002 connected.
+Client User003 connected.
+[System]: Secret message sent to User003.
+Client User003 disconnected.
 ```
 
-**Client Output (Alice):**
+**Client Output (User003):**
 
 ```text
 Connected with TLS_AES_256_GCM_SHA384 encryption
-Enter your username: Alice
-[System]: Welcome Alice! Use '@name msg' for secret chat.
+Enter your username: User003
+[System]: Welcome User003! Use '@name msg' for secret chat.
 Hello everyone
-@Bob This is a secret
-[System]: Secret message sent to Bob.
+@User001 This is a secret
+[System]: Secret message sent to User001.
 ```
 
-**Client Output (Bob):**
+**Client Output (User001):**
 
 ```text
 Connected with TLS_AES_256_GCM_SHA384 encryption
-Enter your username: Bob
-[System]: Welcome Bob! Use '@name msg' for secret chat.
-[Alice]: Hello everyone
-[Secret from Alice]: This is a secret
+Enter your username: User001
+[System]: Welcome User001! Use '@name msg' for secret chat.
+[User003]: Hello everyone
+[Secret from User003]: This is a secret
 ```
 
 -----
@@ -140,6 +141,6 @@ Enter your username: Bob
 
 **Client Execution (Public & Private Chat):** { width=700 }
 
-**Wireshark Capture (Encrypted Traffic):** { width=700 }
+
 
 -----
